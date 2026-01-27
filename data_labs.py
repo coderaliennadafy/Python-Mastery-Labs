@@ -1,4 +1,3 @@
-#ali
 programming_language = ['java' ,'javascript' ,'python' ,'c++']
 programming_language[0]= 'typescript'
 print(programming_language)
