@@ -1,0 +1,20 @@
+# 🐍 Python Mastery Labs
+
+Welcome to my Python learning journey! This repository is a collection of hands-on exercises and scripts that I've developed while mastering Python fundamentals and advanced concepts.
+
+## 📂 Structure
+
+| File | Level | Key Concepts Covered |
+| :--- | :--- | :--- |
+| **`python_data_essentials.py`** | 🚀 Advanced | Functional Programming (`map`, `filter`, `lambda`), Advanced Logic, and List Comprehensions. |
+| **`list_methods.py`** | Intermediate | Deep dive into List operations: `append`, `extend`, `insert`, `pop`, and `clear`. |
+| **`data_labs.py`** |  Basics | Fundamentals of Python: Strings, Tuples, Slicing, and Basic Indexing. |
+
+## 🛠️ Technical Skills Demonstrated
+* **Advanced Iterables:** Mastering `zip()`, `enumerate()`, and `range()` for efficient looping.
+* **Functional Tools:** Practical application of `lambda` functions with `filter` and `map`.
+* **Data Integrity:** Understanding the difference between mutable (Lists) and immutable (Tuples) structures.
+* **Version Control:** Managing code updates and commits via **Git**.
+
+---
+*Created with by Ali Ennadafy | [LinkedIn](https://www.linkedin.com/in/ali-ennadafy-ab16331a8)*
