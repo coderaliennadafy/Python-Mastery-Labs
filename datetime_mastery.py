@@ -1,4 +1,3 @@
-%%writefile datetime_mastery.py
 import datetime
 import pytz
 
