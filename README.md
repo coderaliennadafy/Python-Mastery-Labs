@@ -10,6 +10,7 @@ Welcome to my Python learning journey! This repository is a collection of hands-
 | **`list_methods.py`** | Intermediate | Deep dive into List operations: `append`, `extend`, `insert`, `pop`, and `clear`. |
 | **`data_labs.py`** |  Basics | Fundamentals of Python: Strings, Tuples, Slicing, and Basic Indexing. |
 | **`datetime_mastery.py`** | 🕒 Time & Dates | Timezones (`pytz`), `timedelta`, `strftime`, `strptime` |
+| **`oop_concepts.py`** | 🏛️ Advanced | Object-Oriented Programming: Classes, `__init__`, and Methods. |
 
 ## 🛠️ Technical Skills Demonstrated
 * **Advanced Iterables:** Mastering `zip()`, `enumerate()`, and `range()` for efficient looping.
