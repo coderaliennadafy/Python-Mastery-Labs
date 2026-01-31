@@ -1,4 +1,3 @@
-
 class Livre:
     def __init__(self, titre):
         self.titre = titre
