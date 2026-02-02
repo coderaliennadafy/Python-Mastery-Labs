@@ -11,6 +11,8 @@ Welcome to my Python learning journey! This repository is a collection of hands-
 | **`data_labs.py`** |  Basics | Fundamentals of Python: Strings, Tuples, Slicing, and Basic Indexing. |
 | **`datetime_mastery.py`** | 🕒 Time & Dates | Timezones (`pytz`), `timedelta`, `strftime`, `strptime` |
 | **`oop_concepts.py`** | 🏛️ Advanced | Object-Oriented Programming: Classes, `__init__`, and Methods. |
+| **`oop_parking.py`** | 🏛️ Advanced | Object-Oriented Programming: Classes, `__init__`, and Methods. |
+
 
 ## 🛠️ Technical Skills Demonstrated
 * **Advanced Iterables:** Mastering `zip()`, `enumerate()`, and `range()` for efficient looping.
