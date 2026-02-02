@@ -179,3 +179,13 @@ numbers = [1, 2, 3, 4, 5]
 
 even_numbers = list(filter(lambda x: x % 2 == 0, numbers))
 print(even_numbers)  # [2, 4]
+
+##################################################
+names = ['petor parker','ali ennadafy','fatima ennadafy',"ullise jr"]
+heros = ['spiderman', 'spoderman' , 'deadpool','batman']
+
+Identity = list(zip(names,heros))
+print(Identity)
+
+for i in Identity:
+  print('{},{}!'.format(Identity[0],Identity[1]))   
