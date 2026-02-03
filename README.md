@@ -13,6 +13,7 @@ Welcome to my Python learning journey! This repository is a collection of hands-
 | **`oop_concepts.py`** | 🏛️ Advanced | Object-Oriented Programming: Classes, `__init__`, and Methods. |
 | **`oop_parking.py`** | 🏛️ Advanced | Object-Oriented Programming: Classes, `__init__`, and Methods. |
 | **`oop_Employee.py`** | 🏛️ Advanced | Object-Oriented Programming: Classes, `__init__`, and Methods. |
+| `sets_manipulation.py` | Basics | Mastery of Set theory: `add`, `remove`, `union (|)`, `intersection (&)`, and `difference (-)`. |
 
 
 
